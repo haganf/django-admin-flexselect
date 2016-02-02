@@ -1,5 +1,6 @@
 #! coding=utf8
-from distutils.core import setup
+#from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='django-admin-flexselect',
